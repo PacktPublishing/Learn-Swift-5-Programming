@@ -53,3 +53,7 @@ IDE: Xcode 10.3 or later (https://developer.apple.com/xcode/)
 * [Swift 5 Tips Tricks and Techniques [Video]](https://www.packtpub.com/mobile/swift-5-tips-tricks-and-techniques-video)
 
 * [iOS 13 Programming with Swift 5 (2nd Edition) - Second Edition [Video]](https://www.packtpub.com/mobile/ios-13-programming-with-swift-5-2nd-edition-second-edition-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838983925">https://packt.link/free-ebook/9781838983925 </a> </p>
